@@ -78,3 +78,8 @@ input {
 .para-text {
     padding: 20px;
 }
+
+.sub-heading {
+    color: rgb(12, 78, 12);
+    font-size: 25px;
+}
