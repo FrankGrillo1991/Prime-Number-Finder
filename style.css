@@ -22,3 +22,7 @@
     padding: 20px;
     font-family: 'Poppins', sans-serif;
 }
+
+.outer-box {
+    height: 100vh;
+}
