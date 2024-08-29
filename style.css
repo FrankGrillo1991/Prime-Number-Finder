@@ -39,3 +39,8 @@
 .logo-text {
     color: rgb(31, 145, 31);
 }
+
+.gfglogo {
+    flex-direction: column;
+    gap: 10px;
+}
