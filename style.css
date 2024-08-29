@@ -26,3 +26,8 @@
 .outer-box {
     height: 100vh;
 }
+
+.inner-box {
+    flex-direction: column;
+    gap: 30px;
+}
