@@ -31,3 +31,7 @@
     flex-direction: column;
     gap: 30px;
 }
+
+.btn-container {
+    gap: 15px;
+}
