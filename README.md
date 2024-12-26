@@ -1,0 +1,1 @@
+Prime Number Finder developed with HTML, CSS & JavaScript
