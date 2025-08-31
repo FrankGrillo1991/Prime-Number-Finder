@@ -17,10 +17,11 @@
 .box {
     height: 400px;
     width: 400px;
-    background-color: rgb(207, 224, 159);
+    background-color: #1a1a1a; /* Dark background for high contrast */
     border-radius: 15px;
     padding: 20px;
     font-family: 'Poppins', sans-serif;
+    color: #fff; /* Ensure text is white for contrast */
 }
 
 .outer-box {
@@ -37,7 +38,7 @@
 }
 
 .logo-text {
-    color: rgb(31, 145, 31);
+    color: #ffd700; /* Gold for high contrast on dark bg */
 }
 
 .gfglogo {
@@ -48,19 +49,20 @@
 .btn-style {
     width: 100px;
     height: 30px;
-    background: green;
+    background: #ffd700; /* Gold button for contrast */
     border-radius: 15px;
-    color: whitesmoke;
+    color: #1a1a1a; /* Dark text for contrast */
     text-align: center;
     padding: 3px;
     border: none;
+    font-weight: bold;
 }
 
 .message {
-    background-color: rgb(47, 71, 11);
+    background-color: #222; /* Very dark background */
     height: 100px;
     text-align: center;
-    color: antiquewhite;
+    color: #ffd700; /* Gold text for contrast */
     padding: 25px;
     border-radius: 5px;
     font-size: 20px;
@@ -69,10 +71,12 @@
 input {
     height: 50px;
     width: 300px;
-    border: 2px solid rgb(14, 112, 14);
+    border: 2px solid #ffd700;
     border-radius: 15px;
     text-align: center;
     font-size: 15px;
+    background: #333;
+    color: #fff;
 }
 
 .para-text {
@@ -80,6 +84,6 @@ input {
 }
 
 .sub-heading {
-    color: rgb(12, 78, 12);
+    color: #fff;
     font-size: 25px;
 }
